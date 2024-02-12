@@ -1,1 +1,2 @@
-# API_JSON_Weather_Analysis
+# Weather Analysis using API's and JSON in Python
+This code is analyzing weather data, using Python, JSON and API’s, data from OpenWeatherMap and Geoapify. Randomly selecting 500+ cities across the world of varying distance from the equator, in order to compare different latitudes with temperatures, humidity, cloud coverage and wind speed. Then with the data from the weatherpy, planning a future vacation, using the map visualizations to analyse the best countries and regions to travel to based on temperatures, humidity, cloud coverage and wind speed.
